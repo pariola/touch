@@ -1,0 +1,20 @@
+{
+  "name": "touch",
+  "version": "1.0.0",
+  "description": "A linux 'touch' command for windows",
+  "main": "index.js",
+  "keywords": [
+    "touch"
+  ],
+  "bin": {
+    "touch": "bin.js"
+  },
+  "author": {
+    "name": "Blessing Pariola",
+    "email": "blessingpariola@zoho.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
